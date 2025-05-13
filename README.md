@@ -1,6 +1,6 @@
 # 🎨 **Apresentação Interativa de Modelos 3D** 🚀  
 
-🔗 **[🚀 Acesse Agora](https://lima345.github.io/presentation-3D/)**  
+🔗 **[🚀 Acesse Agora](https://lima345.github.io/presentation-ARCH-Bim-project/)**  
 
 Bem-vindo ao **Presentation ARCH**! Este software inovador permite que **engenheiros, arquitetos e vendedores técnicos** compartilhem e apresentem modelos 3D de forma interativa através de um link.  
 
